@@ -1,12 +1,12 @@
 body{
-background-color: beige; (137, 43, 226, 0.514);
+background-color: rgb(245, 220, 241); (137, 43, 226, 0.514);
 font-family:Playfair Display;
 color: white;
 }
 
 
 footer{
-    background-color: aliceblue;
+    background-color: rgb(255, 240, 254);
 color: black;
 bottom: 0%;
 position: fixed;
